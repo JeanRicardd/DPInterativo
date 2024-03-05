@@ -1,0 +1,284 @@
+C:\Users\Jean Ricardd\source\repos\DPInterativo\DPInterativo\bin\Debug\DPInterativo.exe.config
+C:\Users\Jean Ricardd\source\repos\DPInterativo\DPInterativo\bin\Debug\DPInterativo.exe
+C:\Users\Jean Ricardd\source\repos\DPInterativo\DPInterativo\bin\Debug\DPInterativo.pdb
+C:\Users\Jean Ricardd\source\repos\DPInterativo\DPInterativo\obj\Debug\DPInterativo.csprojAssemblyReference.cache
+C:\Users\Jean Ricardd\source\repos\DPInterativo\DPInterativo\obj\Debug\DPInterativo.Form1.resources
+C:\Users\Jean Ricardd\source\repos\DPInterativo\DPInterativo\obj\Debug\DPInterativo.Formularios.FormContribuicao.resources
+C:\Users\Jean Ricardd\source\repos\DPInterativo\DPInterativo\obj\Debug\DPInterativo.Properties.Resources.resources
+C:\Users\Jean Ricardd\source\repos\DPInterativo\DPInterativo\obj\Debug\DPInterativo.csproj.GenerateResource.cache
+C:\Users\Jean Ricardd\source\repos\DPInterativo\DPInterativo\obj\Debug\DPInterativo.csproj.CoreCompileInputs.cache
+C:\Users\Jean Ricardd\source\repos\DPInterativo\DPInterativo\obj\Debug\DPInterativo.exe
+C:\Users\Jean Ricardd\source\repos\DPInterativo\DPInterativo\obj\Debug\DPInterativo.pdb
+C:\Users\Jean Ricardd\source\repos\DPInterativo\DPInterativo\obj\Debug\DPInterativo.Formularios.FormImposto.resources
+C:\Users\Administrador\OneDrive - SENAC - SP\C#\DPInterativo\DPInterativo\bin\Debug\DPInterativo.exe.config
+C:\Users\Administrador\OneDrive - SENAC - SP\C#\DPInterativo\DPInterativo\bin\Debug\DPInterativo.exe
+C:\Users\Administrador\OneDrive - SENAC - SP\C#\DPInterativo\DPInterativo\bin\Debug\DPInterativo.pdb
+C:\Users\Administrador\OneDrive - SENAC - SP\C#\DPInterativo\DPInterativo\obj\Debug\DPInterativo.csprojAssemblyReference.cache
+C:\Users\Administrador\OneDrive - SENAC - SP\C#\DPInterativo\DPInterativo\obj\Debug\DPInterativo.Form1.resources
+C:\Users\Administrador\OneDrive - SENAC - SP\C#\DPInterativo\DPInterativo\obj\Debug\DPInterativo.Formularios.FormContribuicao.resources
+C:\Users\Administrador\OneDrive - SENAC - SP\C#\DPInterativo\DPInterativo\obj\Debug\DPInterativo.Formularios.FormImposto.resources
+C:\Users\Administrador\OneDrive - SENAC - SP\C#\DPInterativo\DPInterativo\obj\Debug\DPInterativo.Properties.Resources.resources
+C:\Users\Administrador\OneDrive - SENAC - SP\C#\DPInterativo\DPInterativo\obj\Debug\DPInterativo.csproj.GenerateResource.cache
+C:\Users\Administrador\OneDrive - SENAC - SP\C#\DPInterativo\DPInterativo\obj\Debug\DPInterativo.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\OneDrive - SENAC - SP\C#\DPInterativo\DPInterativo\obj\Debug\DPInterativo.exe
+C:\Users\Administrador\OneDrive - SENAC - SP\C#\DPInterativo\DPInterativo\obj\Debug\DPInterativo.pdb
+C:\Users\Administrador\OneDrive - SENAC - SP\C#\DPInterativo\DPInterativo\obj\Debug\DPInterativo.Formularios.FormIRRF.resources
+C:\Users\Administrador\OneDrive - SENAC - SP\C#\DPInterativo\DPInterativo\obj\Debug\DPInterativo.Formularios.FormDecimoTerceiro.resources
+C:\Users\Administrador\OneDrive - SENAC - SP\C#\DPInterativo\DPInterativo\obj\Debug\DPInterativo.Formularios.FormFeriasProporcionais.resources
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo\DPInterativo\bin\Debug\DPInterativo.exe.config
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo\DPInterativo\bin\Debug\DPInterativo.exe
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo\DPInterativo\bin\Debug\DPInterativo.pdb
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo\DPInterativo\obj\Debug\DPInterativo.csprojAssemblyReference.cache
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo\DPInterativo\obj\Debug\DPInterativo.Form1.resources
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo\DPInterativo\obj\Debug\DPInterativo.Formularios.FormContribuicao.resources
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo\DPInterativo\obj\Debug\DPInterativo.Formularios.FormDecimoTerceiro.resources
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo\DPInterativo\obj\Debug\DPInterativo.Formularios.FormFeriasProporcionais.resources
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo\DPInterativo\obj\Debug\DPInterativo.Formularios.FormImposto.resources
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo\DPInterativo\obj\Debug\DPInterativo.Formularios.FormIRRF.resources
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo\DPInterativo\obj\Debug\DPInterativo.Properties.Resources.resources
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo\DPInterativo\obj\Debug\DPInterativo.csproj.GenerateResource.cache
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo\DPInterativo\obj\Debug\DPInterativo.csproj.CoreCompileInputs.cache
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo\DPInterativo\obj\Debug\DPInterativo.exe
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo\DPInterativo\obj\Debug\DPInterativo.pdb
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo\DPInterativo\obj\Debug\DPInterativo.Formularios.FormCustoFuncionario.resources
+C:\Users\Administrador\OneDrive - SENAC - SP\C#\DPInterativo\DPInterativo\obj\Debug\DPInterativo.Formularios.FormCustoFuncionario.resources
+C:\Users\Administrador\OneDrive - SENAC - SP\C#\DPInterativo\DPInterativo\obj\Debug\DPInterativo.Formularios.FormDescontoSocioFixo.resources
+C:\Users\Administrador\OneDrive - SENAC - SP\C#\DPInterativo\DPInterativo\bin\Debug\MaterialSkin.dll
+C:\Users\Administrador\OneDrive - SENAC - SP\C#\DPInterativo\DPInterativo\obj\Debug\DPInterativo.csproj.CopyComplete
+C:\Users\Administrador\OneDrive - SENAC - SP\C#\DPInterativo\DPInterativo\obj\Debug\DPInterativo.Formularios.FormChangelog.resources
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo\DPInterativo\bin\Debug\MaterialSkin.dll
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo\DPInterativo\obj\Debug\DPInterativo.Formularios.FormChangelog.resources
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo\DPInterativo\obj\Debug\DPInterativo.Formularios.FormDescontoSocioFixo.resources
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo\DPInterativo\obj\Debug\DPInterativo.csproj.CopyComplete
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  .NET 3.0\DPInterativo\obj\Debug\DPInterativo.csprojAssemblyReference.cache
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  .NET 3.0\DPInterativo\obj\Debug\DPInterativo.Form1.resources
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  .NET 3.0\DPInterativo\obj\Debug\DPInterativo.Formularios.FormChangelog.resources
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  .NET 3.0\DPInterativo\obj\Debug\DPInterativo.Formularios.FormContribuicao.resources
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  .NET 3.0\DPInterativo\obj\Debug\DPInterativo.Formularios.FormCustoFuncionario.resources
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  .NET 3.0\DPInterativo\obj\Debug\DPInterativo.Formularios.FormDecimoTerceiro.resources
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  .NET 3.0\DPInterativo\obj\Debug\DPInterativo.Formularios.FormDescontoSocioFixo.resources
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  .NET 3.0\DPInterativo\obj\Debug\DPInterativo.Formularios.FormFeriasProporcionais.resources
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  .NET 3.0\DPInterativo\obj\Debug\DPInterativo.Formularios.FormImposto.resources
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  .NET 3.0\DPInterativo\obj\Debug\DPInterativo.Formularios.FormIRRF.resources
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  .NET 3.0\DPInterativo\obj\Debug\DPInterativo.Properties.Resources.resources
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  .NET 3.0\DPInterativo\obj\Debug\DPInterativo.csproj.GenerateResource.cache
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  .NET 3.0\DPInterativo\obj\Debug\DPInterativo.csproj.CoreCompileInputs.cache
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  .NET 3.0\DPInterativo\obj\Debug\DPInterativo.exe
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  .NET 3.0\DPInterativo\obj\Debug\DPInterativo.pdb
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  .NET 3.0\DPInterativo\bin\Debug\DPInterativo.exe.config
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  .NET 3.0\DPInterativo\bin\Debug\DPInterativo.exe
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  .NET 3.0\DPInterativo\bin\Debug\DPInterativo.pdb
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  .NET 3.0\DPInterativo\bin\Debug\MaterialSkin.dll
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  .NET 3.0\DPInterativo\obj\Debug\DPInterativo.csproj.CopyComplete
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  .NET 3.0\DPInterativo\obj\Debug\DPInterativo.FormularioSobre.FormSobreMaquina.resources
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  .NET 3.0\DPInterativo\obj\Debug\DPInterativo.FormularioSobre.FormUsuario.resources
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\AWSSDK.Core.dll
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\Guna.UI.dll
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\itextsharp.dll
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\MaterialDesign.dll
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\MaterialSkin.dll
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\protobuf-net.dll
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\AWSSDK.Core.pdb
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\AWSSDK.Core.xml
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\itextsharp.xml
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\protobuf-net.xml
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.Form1.resources
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.FormularioSobre.FormSobreMaquina.resources
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.FormularioSobre.FormUsuario.resources
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.Formularios.FormCalculoDias.resources
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.Formularios.FormChangelog.resources
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.Formularios.FormCNPJ.resources
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.Formularios.FormContribuicao.resources
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.Formularios.FormCustoFuncionario.resources
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.Formularios.FormDataEmDias.resources
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.Formularios.FormDecimoTerceiro.resources
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.Formularios.FormDescontoSocioFixo.resources
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.Formularios.FormFeriasProporcionais.resources
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.Formularios.FormImposto.resources
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.Formularios.FormIRRF.resources
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.Formularios.FormPorcentagem.resources
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.Formularios.FormVerificarIrregularidadeGPS.resources
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.Formularios.FormWeb.resources
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.NovoFormPrincipal.FormConfiguration.resources
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.NovoFormPrincipal.FormDeduzindoINSS.resources
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.NovoFormPrincipal.FormInsiraNome.resources
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.NovoFormPrincipal.FormPrincipalNew.resources
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.NovoFormPrincipal.FormPrincipalRemaster.resources
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.NovoFormPrincipal.FormSalarioFamilia.resources
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.NovoFormPrincipal.FormulariosRemaster.FormCalculoDeDias.resources
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.NovoFormPrincipal.FormulariosRemaster.FormContribuicaoPrevidenciaria.resources
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.NovoFormPrincipal.FormulariosRemaster.FormDAE.resources
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.NovoFormPrincipal.FormulariosRemaster.FormDistanciaDias.resources
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.NovoFormPrincipal.FormulariosRemaster.FormGPSIrregularidade.resources
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.NovoFormPrincipal.FormulariosRemaster.FormIRRF.resources
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.Properties.Resources.resources
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.csproj.GenerateResource.cache
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.csproj.CoreCompileInputs.cache
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.csproj.CopyComplete
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.csproj.AssemblyReference.cache
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\InteractCalc.exe.config
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\InteractCalc.exe
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\InteractCalc.pdb
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\InteractCalc.exe.config
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\InteractCalc.exe
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\InteractCalc.pdb
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\AJWUpdate.dll
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\AJWUpdate.pdb
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jean Ricardd\OneDrive - SENAC - SP\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.csproj.SuggestedBindingRedirects.cache
+E:\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\InteractCalc.exe.config
+E:\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\InteractCalc.exe
+E:\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\InteractCalc.pdb
+E:\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\AJWUpdate.dll
+E:\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\AWSSDK.Core.dll
+E:\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\BouncyCastle.Crypto.dll
+E:\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\itextsharp.dll
+E:\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\MaterialDesign.dll
+E:\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\MaterialSkin.dll
+E:\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+E:\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+E:\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\Newtonsoft.Json.dll
+E:\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\protobuf-net.dll
+E:\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\AJWUpdate.pdb
+E:\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\AWSSDK.Core.pdb
+E:\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\AWSSDK.Core.xml
+E:\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\itextsharp.xml
+E:\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\Newtonsoft.Json.xml
+E:\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\protobuf-net.xml
+E:\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\InteractCalc.exe.config
+E:\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.Form1.resources
+E:\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.FormularioSobre.FormSobreMaquina.resources
+E:\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.FormularioSobre.FormUsuario.resources
+E:\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.Formularios.FormCalculoDias.resources
+E:\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.Formularios.FormChangelog.resources
+E:\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.Formularios.FormCNPJ.resources
+E:\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.Formularios.FormContribuicao.resources
+E:\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.Formularios.FormCustoFuncionario.resources
+E:\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.Formularios.FormDataEmDias.resources
+E:\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.Formularios.FormDecimoTerceiro.resources
+E:\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.Formularios.FormDescontoSocioFixo.resources
+E:\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.Formularios.FormFeriasProporcionais.resources
+E:\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.Formularios.FormImposto.resources
+E:\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.Formularios.FormIRRF.resources
+E:\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.Formularios.FormPorcentagem.resources
+E:\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.Formularios.FormVerificarIrregularidadeGPS.resources
+E:\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.Formularios.FormWeb.resources
+E:\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.NovoFormPrincipal.FormConfiguration.resources
+E:\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.NovoFormPrincipal.FormDeduzindoINSS.resources
+E:\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.NovoFormPrincipal.FormInsiraNome.resources
+E:\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.NovoFormPrincipal.FormPrincipalNew.resources
+E:\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.NovoFormPrincipal.FormPrincipalRemaster.resources
+E:\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.NovoFormPrincipal.FormSalarioFamilia.resources
+E:\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.NovoFormPrincipal.FormulariosRemaster.FormCalculoDeDias.resources
+E:\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.NovoFormPrincipal.FormulariosRemaster.FormContribuicaoPrevidenciaria.resources
+E:\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.NovoFormPrincipal.FormulariosRemaster.FormDAE.resources
+E:\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.NovoFormPrincipal.FormulariosRemaster.FormDistanciaDias.resources
+E:\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.NovoFormPrincipal.FormulariosRemaster.FormGPSIrregularidade.resources
+E:\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.NovoFormPrincipal.FormulariosRemaster.FormIRRF.resources
+E:\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.Properties.Resources.resources
+E:\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.csproj.GenerateResource.cache
+E:\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.csproj.CoreCompileInputs.cache
+E:\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.csproj.CopyComplete
+E:\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\InteractCalc.exe
+E:\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\InteractCalc.pdb
+E:\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.csproj.AssemblyReference.cache
+C:\Users\Jean Ricardd\OneDrive\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Jean Ricardd\OneDrive\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Jean Ricardd\OneDrive\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Jean Ricardd\OneDrive\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Jean Ricardd\OneDrive\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\InteractCalc.pdb
+C:\Users\Jean Ricardd\OneDrive\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\AJWUpdate.dll
+C:\Users\Jean Ricardd\OneDrive\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\MaterialDesign.dll
+C:\Users\Jean Ricardd\OneDrive\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\MaterialSkin.dll
+C:\Users\Jean Ricardd\OneDrive\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jean Ricardd\OneDrive\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\protobuf-net.dll
+C:\Users\Jean Ricardd\OneDrive\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\AJWUpdate.pdb
+C:\Users\Jean Ricardd\OneDrive\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jean Ricardd\OneDrive\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\protobuf-net.xml
+C:\Users\Jean Ricardd\OneDrive\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.csproj.AssemblyReference.cache
+C:\Users\Jean Ricardd\OneDrive\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.FormularioSobre.FormSobreMaquina.resources
+C:\Users\Jean Ricardd\OneDrive\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.FormularioSobre.FormUsuario.resources
+C:\Users\Jean Ricardd\OneDrive\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.Formularios.FormChangelog.resources
+C:\Users\Jean Ricardd\OneDrive\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.Formularios.FormCNPJ.resources
+C:\Users\Jean Ricardd\OneDrive\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.Formularios.FormCustoFuncionario.resources
+C:\Users\Jean Ricardd\OneDrive\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.Formularios.FormVerificarIrregularidadeGPS.resources
+C:\Users\Jean Ricardd\OneDrive\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.Formularios.FormWeb.resources
+C:\Users\Jean Ricardd\OneDrive\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.NovoFormPrincipal.FormConfiguration.resources
+C:\Users\Jean Ricardd\OneDrive\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.NovoFormPrincipal.FormDeduzindoINSS.resources
+C:\Users\Jean Ricardd\OneDrive\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.NovoFormPrincipal.FormInsiraNome.resources
+C:\Users\Jean Ricardd\OneDrive\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.NovoFormPrincipal.FormPrincipalRemaster.resources
+C:\Users\Jean Ricardd\OneDrive\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.NovoFormPrincipal.FormSalarioFamilia.resources
+C:\Users\Jean Ricardd\OneDrive\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.NovoFormPrincipal.FormulariosRemaster.FormCalculoDeDias.resources
+C:\Users\Jean Ricardd\OneDrive\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.NovoFormPrincipal.FormulariosRemaster.FormContribuicaoPrevidenciaria.resources
+C:\Users\Jean Ricardd\OneDrive\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.NovoFormPrincipal.FormulariosRemaster.FormDAE.resources
+C:\Users\Jean Ricardd\OneDrive\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.NovoFormPrincipal.FormulariosRemaster.FormDistanciaDias.resources
+C:\Users\Jean Ricardd\OneDrive\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.NovoFormPrincipal.FormulariosRemaster.FormGPSIrregularidade.resources
+C:\Users\Jean Ricardd\OneDrive\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.NovoFormPrincipal.FormulariosRemaster.FormIRRF.resources
+C:\Users\Jean Ricardd\OneDrive\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.Properties.Resources.resources
+C:\Users\Jean Ricardd\OneDrive\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.csproj.GenerateResource.cache
+C:\Users\Jean Ricardd\OneDrive\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.csproj.CoreCompileInputs.cache
+C:\Users\Jean Ricardd\OneDrive\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\DPInterativo.csproj.CopyComplete
+C:\Users\Jean Ricardd\OneDrive\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\InteractCalc.pdb
+C:\Users\Jean Ricardd\OneDrive\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\InteractCalc.exe.config
+C:\Users\Jean Ricardd\OneDrive\C#\DPInterativo  v1.0\DPInterativo\bin\Debug\InteractCalc.exe
+C:\Users\Jean Ricardd\OneDrive\C#\DPInterativo  v1.0\DPInterativo\obj\Debug\InteractCalc.exe

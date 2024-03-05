@@ -1,0 +1,80 @@
+<!DOCTYPE HTML>
+<head>
+<meta charset="UTF-8"/>
+</head>
+<center>Changelog de Atualizações</center>
+</br>
+</br>
+<h2>Changelog v1.1.0.0 - 06/04/2021</h2>
+<p>* Adicionado uma nova opção no Calculo de IRRF chamado "Deduzir INSS", informar o valor manualmente</p>
+<p>* Foi REFEITO todo o calculo do IRRF para que faça o calculo 100% correto! (poderá haver + ajustes)</p>
+<p>* Corrigido bug do botão de DAE que causava a finalização do software</p>
+<p>* Corrigido bug do botão de Custo de Funcionario, que ao ser fechado, abria uma nova janela do software.</p>
+</br>
+<h2>Changelog v1.1.0.0 - 03/04/2021</h2>
+<p>* Atualizado todo layout do software !</p>
+<p>* Calculo de IRRF foi refeito, corrigido o bug do dependente.</p>
+<p>* Adicionado novo botão "Distancia de dias", usado para saber quantos dias faltam para x dia e quando cairá x dia.</p>
+<p>* Adicionado novo botão "Data de Aquisição", que faz o calculo de quando o funcionario pode desfrutar do seu periodo de gozo e seu limite para obter.</p>
+<p>* Nome do programa definido como InteractCalc (tradução: Calculadora Interativo)</p>
+</br>
+<h2>Changelog v1.0.0.11 Final - Patch 6 - 04/03/2021</h2>
+<p>* Corrigido o código de calculo de contribuição que estava calculando as porcentagens erradas !</p>
+<p>* Atualizado o código de calculo de IRRF (o mesmo foi apenas encurtado para acelerar o processo de calculo)</p>
+</br>
+<h2>Changelog v1.0.0.11 Final - Patch 5 - 03/03/2021</h2>
+<p>* Atualizado o código de calculo de contribuição (o mesmo foi apenas encurtado para acelerar o processo de calculo)</p>
+<p>* Atualizado o logo do aplicativo</p>
+</br>
+<h2>Changelog v1.0.0.11 Final - Patch 4 - 07/02/2021</h2>
+<p>* Atualizado calculo do Imposto DAE - Corrigido erro da tabela de calculo</p>
+<p>* Removido opção de teste de temas do DPInterativo</p>
+<p>* Adicionado Config.ini para gerenciar configuração do aplicativo</p>
+</br>
+<h2>Changelog v1.0.0.11 Final - Patch 3 - 13/01/2021</h2>
+<p>* Atualizado calculo da Contribuição Previdenciária - Atualizado base 1100</p>
+<p>* Atualizado calculo do Imposto DAE - Atualizado base 1100</p>
+</br>
+<h2>Changelog v1.0.0.11 Final - Patch 2 - 10/01/2021</h2>
+<p>* Atualizado layout do Custo de Funcionario</p>
+<p>* Adicionado opção de Calculo de Porcentagens em Utilitarios</p>
+<p>* Adicionado novo menu com opção via web "Utilitarios WEB"</p>
+<p>* Efetuado correções internas não abrangentes<p>
+</br>
+<h2>Changelog v1.0.0.11 Final - Patch 1 - 18/11/2020</h2>
+<p>* Atualizado script de calculo</p>
+<p>* Efetuado correções internas não abrangentes<p>
+</br>
+<h2>Changelog v1.0.0.11 Final - 16/11/2020</h2>
+<p>* Adicionado tema "Branco" no Layout</p>
+<p>* Refeito "Imposto - DAE" com opção de calculo 13º Salário ~ 1º Parcela</p>
+<p>* Ajustado erro de R$0,09 de diferença no calculo de Contribuição Previdenciária em valores acima de R$2089,61</p>
+<p>* Ajustado configurações do "Calculo 13º"<p>
+</br>
+<h2>Changelog v1.0.0.10B</h2>
+<p>* Adicionado menu "Passatempo" com "Mario Bros"</p>
+</br>
+<h2>Changelog v1.0.0.10A</h2>
+<p>* Reformulado todo Layout do software</p>
+<p>* Corrigido problemas de calculo do "Desconto Socio Fixo"</p>
+</br>
+<h2>Changelog v1.0.0.10</h2>
+<p>* Novas correções em "Calcular 13º"</p>
+<p>* Refeito layout do "Calcular 13º"</p>
+<p>* Adicionado botão de "Buscar Agenda"</p>
+</br>
+<h2>Changelog v1.0.0.6</h2>
+<p>* Adicionado botão de "Custo de Funcionario"</p>
+<p>* Corrigido falta de calculo de valores +R$3200 na "IRRF" (não apresentava nenhum calculo anteriormente)</p>
+</br>
+<h2>Changelog v1.0.0.4</h2>
+<p>* Corrigido falta de calculo de valores +R$3200 na "Contribuição Previdenciária" (não apresentava nenhum calculo anteriormente)</p>
+</br>
+<h2>Changelog v1.0.0.2</h2>
+<p>* Adicionado botão de "IRRF"</p>
+</br>
+<h2>Changelog v1.0.0.0</h2>
+<p>* Adicionado botão de "Contribuição Previdenciária"</p>
+<p>* Adicionado botão de "Imposto - DAE"</p>
+</br>
+</HTML>
